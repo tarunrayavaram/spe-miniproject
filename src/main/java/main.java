@@ -23,7 +23,7 @@ class main
 		{
 			System.out.println("type the integer:");
 			int num = scn.nextInt();
-			double result = calculator.factorial(num);
+			int result = calculator.factorial(num);
 			System.out.println("factorial of "+num+" is:"+result);
 		}
 		else
