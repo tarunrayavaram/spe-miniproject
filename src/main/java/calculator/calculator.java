@@ -11,4 +11,13 @@ public class calculator
 		double sqr = Math.sqrt(a);
 		return sqr;
 	}
+	public static int factorial(Integer n)
+    {
+        int res = 1, i;
+        for (i=2; i<=n; i++)
+        {
+            res *= i;
+        }
+        return res;
+    }
 }
