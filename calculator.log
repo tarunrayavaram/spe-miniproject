@@ -10,3 +10,7 @@
 2022-03-31 14:56:54.808 [main] INFO  calculator.calculator - [RESULT - SQUARE ROOT] - 120
 2022-03-31 14:56:54.810 [main] INFO  calculator.calculator - [INPUT] - 25
 2022-03-31 14:56:54.813 [main] INFO  calculator.calculator - [RESULT - SQUARE ROOT] - 5.0
+2022-03-31 15:06:50.194 [main] INFO  calculator.calculator - [INPUT] - 5
+2022-03-31 15:06:50.198 [main] INFO  calculator.calculator - [RESULT - SQUARE ROOT] - 120
+2022-03-31 15:06:50.199 [main] INFO  calculator.calculator - [INPUT] - 25
+2022-03-31 15:06:50.202 [main] INFO  calculator.calculator - [RESULT - SQUARE ROOT] - 5.0
