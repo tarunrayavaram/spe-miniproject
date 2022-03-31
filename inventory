@@ -1,0 +1,5 @@
+[docker]
+172.17.0.2 ansible_user=tarun
+
+[ubuntu18]
+172.16.129.47 ansible_user=user
