@@ -1,20 +1,4 @@
-2022-03-31 14:45:53.645 [main] INFO  calculator.calculator - [INPUT] - 5
-2022-03-31 14:45:53.647 [main] INFO  calculator.calculator - [RESULT - SQUARE ROOT] - 120
-2022-03-31 14:45:53.648 [main] INFO  calculator.calculator - [INPUT] - 25
-2022-03-31 14:45:53.650 [main] INFO  calculator.calculator - [RESULT - SQUARE ROOT] - 5.0
-2022-03-31 14:48:56.004 [main] INFO  calculator.calculator - [INPUT] - 5
-2022-03-31 14:48:56.008 [main] INFO  calculator.calculator - [RESULT - SQUARE ROOT] - 120
-2022-03-31 14:48:56.009 [main] INFO  calculator.calculator - [INPUT] - 25
-2022-03-31 14:48:56.012 [main] INFO  calculator.calculator - [RESULT - SQUARE ROOT] - 5.0
-2022-03-31 14:56:54.804 [main] INFO  calculator.calculator - [INPUT] - 5
-2022-03-31 14:56:54.808 [main] INFO  calculator.calculator - [RESULT - SQUARE ROOT] - 120
-2022-03-31 14:56:54.810 [main] INFO  calculator.calculator - [INPUT] - 25
-2022-03-31 14:56:54.813 [main] INFO  calculator.calculator - [RESULT - SQUARE ROOT] - 5.0
-2022-03-31 15:06:50.194 [main] INFO  calculator.calculator - [INPUT] - 5
-2022-03-31 15:06:50.198 [main] INFO  calculator.calculator - [RESULT - SQUARE ROOT] - 120
-2022-03-31 15:06:50.199 [main] INFO  calculator.calculator - [INPUT] - 25
-2022-03-31 15:06:50.202 [main] INFO  calculator.calculator - [RESULT - SQUARE ROOT] - 5.0
-2022-04-06 22:07:06.102 [main] INFO  calculator.calculator - [INPUT] - 5
-2022-04-06 22:07:06.104 [main] INFO  calculator.calculator - [RESULT - SQUARE ROOT] - 120
-2022-04-06 22:07:06.106 [main] INFO  calculator.calculator - [INPUT] - 25
-2022-04-06 22:07:06.107 [main] INFO  calculator.calculator - [RESULT - SQUARE ROOT] - 5.0
+2022-04-17 16:11:34.448 [main] [INFO ] calculator.calculator POWER INPUT:5^2 RESULT:25
+2022-04-17 16:11:34.451 [main] [INFO ] calculator.calculator FACTORIAL INPUT:5 RESULT:120
+2022-04-17 16:11:34.453 [main] [INFO ] calculator.calculator SQUARE ROOT INPUT:25 RESULT:5.0
+2022-04-17 16:11:34.454 [main] [INFO ] calculator.calculator LOG INPUT:148.4131591025766 RESULT:5.0

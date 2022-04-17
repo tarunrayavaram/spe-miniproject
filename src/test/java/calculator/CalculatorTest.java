@@ -20,4 +20,16 @@ public class CalculatorTest
 	{
 		assertEquals(120, calculator.factorial(5), DELTA);
 	}
+	
+	@Test
+	public void log_test()
+	{
+		assertEquals(5, calculator.log(Math.exp(5)), DELTA);
+	}
+	
+	@Test
+	public void power_test()
+	{
+		assertEquals(25, calculator.power(5, 2), DELTA);
+	}
 }
