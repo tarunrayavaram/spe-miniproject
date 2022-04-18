@@ -2,3 +2,7 @@
 2022-04-17 16:11:34.451 [main] [INFO ] calculator.calculator FACTORIAL INPUT:5 RESULT:120
 2022-04-17 16:11:34.453 [main] [INFO ] calculator.calculator SQUARE ROOT INPUT:25 RESULT:5.0
 2022-04-17 16:11:34.454 [main] [INFO ] calculator.calculator LOG INPUT:148.4131591025766 RESULT:5.0
+2022-04-18 14:48:38.708 [main] [INFO ] calculator.calculator POWER INPUT:5^2 RESULT:25
+2022-04-18 14:48:38.711 [main] [INFO ] calculator.calculator FACTORIAL INPUT:5 RESULT:120
+2022-04-18 14:48:38.713 [main] [INFO ] calculator.calculator SQUARE ROOT INPUT:25 RESULT:5.0
+2022-04-18 14:48:38.714 [main] [INFO ] calculator.calculator LOG INPUT:148.4131591025766 RESULT:5.0
